@@ -37,7 +37,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-    namespace 'com.nankai.flutter_nearby_connection'
+    namespace 'com.nankai.flutter_nearby_connections'
 }
 
 dependencies {
